@@ -1,3 +1,7 @@
+#### This is my take on the first course project in Course 4 of the Data Science Specialization from JHU on Coursera. You're going to want to run DataPrep.R first to properly clean the data for plotting, then you can run any of the plotting subscripts at will. I wrote in some code at the start of DataPrep.R to make sure you have the necessary files in your working directory, but I've never written anything like it and while R accepts it and runs it I can't say for certain it works. If it doesn't on your end, the files are available at this URL("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip") Make sure household_power_consumption.txt ends up in your working directory. Cheers!
+
+Here's the original instructions:
+
 ## Introduction
 
 This assignment uses data from
