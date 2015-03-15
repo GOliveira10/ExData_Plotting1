@@ -10,8 +10,8 @@ file <- read.table(filename,
                    sep = ";",
                    colClasses = c("character", "character", rep("numeric",7)),
                    na = "?")
-dim(data) 
-attach(data)
+dim(file) 
+attach(file)
 dates <- Date == "1/2/2007" | Date == "2/2/2007"
 newData <- file[dates, ]
 attach(newData)
